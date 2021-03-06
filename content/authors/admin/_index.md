@@ -14,7 +14,7 @@ organizations:
   url: https://www.iitk.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include AI for Society/Healthcare, Natural Language Processing and Pitching Ideas.
 
 # Interests to show in About widget
 interests:
@@ -29,7 +29,7 @@ education:
     institution: IIT Kanpur
     year: 2022(Expected)
   - course: High School
-    institution: City Montessori School Lucknow
+    institution: City Montessori School Lucknow (96.2%)
     year: 2017  
 
 # Social/Academic Networking

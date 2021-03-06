@@ -1,10 +1,10 @@
 ---
 title: What took me so lo_ong to start Blogging?
 # url: 'https://students.iitk.ac.in/eclub/'
-subtitle: Welcome 👋 I have just started with blogging and writing. This is just a warm up blog to start with this process!
+subtitle: Welcome 👋 I have just started with writing as a medium to express my thoughts. This is just a warm up blog to start with this process!
 
 # Summary for listings and search engines
-summary:  Welcome 👋 I have just started with blogging and writing. This is just a warm up blog to start with this process!
+summary:  Welcome 👋 I have just started with writing as a medium to express my thoughts. This is just a warm up blog to start with this process!
 
 
 # Link this post with a project
@@ -26,7 +26,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 1
   preview_only: false
@@ -37,6 +37,8 @@ authors:
 
 tags:
 - Mental Health 
+- JustBeginnig
+- Writing is Relieving
 
 categories:
 - Just Beginning 
@@ -45,7 +47,7 @@ categories:
 
 Salut!╰(* °▽° *)╯
 
-**Disclaimer: This is a personal blog written for the sole purpose of the satisfaction of talking to someone in a way that the writer finds satisfying. In addition to it do not try to interpret the emogis in the blog 🍕**
+***Disclaimer: This is a personal blog written for the sole purpose of the satisfaction of talking to someone in a way that the writer finds satisfying. In addition to it do not try to interpret the emogis in the blog 🍕***
 
 I have always wanted to be an original and the thought of writing or documenting things has always excited me. Besides Blogging, I have always wanted to cover songs and post them for my own satisfaction. But somehow couldn't because of my own insecurities, the people around me, and the thought that publicizing oneself was a cheap stunt. (I'm wrong here)
 
