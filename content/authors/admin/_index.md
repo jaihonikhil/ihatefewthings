@@ -11,7 +11,7 @@ role: Final Year Undergraduate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Indian Institute of Technology
-  url: https://www.stanford.edu/
+  url: https://www.iitk.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -45,7 +45,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=c7yboKsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/jaihonikhil
