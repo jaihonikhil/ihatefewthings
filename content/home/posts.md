@@ -38,4 +38,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  background:
+    # gradient_start: '#0B5345'
+    # gradient_end: "#641E16"
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: false
 ---

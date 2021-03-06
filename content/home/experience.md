@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience (Mentorship)
+title: Experience 
 subtitle:
 
 # Date format for experience
@@ -66,4 +66,8 @@ experience:
     focal_point: Smart
     
   # {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+design:
+  background:
+          # gradient_start: '#7B241C'
+          # gradient_end: "#1C3130"
 ---

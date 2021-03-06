@@ -27,4 +27,8 @@ content:
   
 design:
   columns: '2'
+  background:
+    # gradient_start: '#909497'
+    
+    # gradient_end: "#34495E"
 ---

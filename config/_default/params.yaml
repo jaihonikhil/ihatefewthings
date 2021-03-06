@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: Coffee
 day_night: true
-font: ''
-font_size: L
+font: my
+font_size: XL
 
 # SEO
 
@@ -132,3 +132,11 @@ cms:
 icon:
   pack:
     ai: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: >-
+    Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.

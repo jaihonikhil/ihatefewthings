@@ -42,7 +42,11 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 3
-
+  background:
+    # gradient_start: '#7B241C'
+    # gradient_end: "#1C3130"
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: false
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
