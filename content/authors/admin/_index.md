@@ -67,8 +67,10 @@ email: "jaihonikhil@gmail.com"
 highlight_name: true
 ---
 
-I am a third year undergrad at IIT Kanpur in the Mechanical Department.My interests though are in Machine Learning, Natural Language Processing, Data Science, Robotics and Electronics.I have been fortunate enough to work with amazing Professors at IIT Kanpur, seniors and batchmates.I am very fond of singing as well. It was during my JEE days that I started exploring other religions and slowly drifted towards a mixture of Hinduism and Buddhism as a way of life.
+I am a third year undergrad in the Mechanical Department of IIT Kanpur interested mainly in AI for Social Good, Natural Language Processing, Data Science, Robotics and Electronics. I have been fortunate enough to work with amazing Professors at IIT Kanpur like Prof. Ashutosh Modi, Prof Vipul Arora and Prof A.R Harish. 
 
-Along with this, I like pitching my ideas as well in various competitions. The entire idea of how technology can change the world inspires me to explore the various skills so as to understand it better. I have also been working towards mental health for quite a while. Currently I am part of the Core team body of Counselling Service, IITK which looks after the academics and mental well being of the campus people. Overall I am a person with curiosity, a lot of dreams and willingness to learn.
+Along with this, I like pitching my startup ideas in various competitions. I was also on the verge of opening a startup but given the priorities and the time constraint, I had to eventually drop the idea. The entire idea of how technology can change the world especially Artifical Intelligence for Social Good inspires me to explore the various skills so as to understand it better. I have also been working towards mental health for quite a while. Currently I am a Core team member of Counselling Service, IITK which looks after the academics and mental well being of the campus people. 
 
+In my leisure time I like singing, Yoga and also scribbling about my philosophical thoughts in my dairy. Though I have recently started writing online so as to become a better reader. I believe that reading feeds the writing,
+which feeds the reading. I also follow Buddhism as a way of life. To know more or share anything interesting or collaboration in projects you can always contact me through mail or LinkedIn. I will be more than happy to talk and help.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
